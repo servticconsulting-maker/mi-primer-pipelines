@@ -1,0 +1,10 @@
+{
+  "name": "primer_pipelines",
+  "version": "1.0.0",
+  "description": "Ejemplo Basico de CI con github Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test tests/index.test.js"
+  }
+}
+ 
